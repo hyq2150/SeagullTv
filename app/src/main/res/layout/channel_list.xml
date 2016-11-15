@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+	android:id="@+id/ll_channels"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="horizontal"
+	android:padding="5dp"
+	android:gravity="center"
+	android:background="#66B3E5FC"
+	xmlns:android="http://schemas.android.com/apk/res/android">
+	<android.support.v7.widget.RecyclerView
+		android:id="@+id/rv_categories"
+		android:layout_width="110dp"
+		android:layout_height="match_parent"/>
+	<android.support.v7.widget.RecyclerView
+		android:id="@+id/rv_channels"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:layout_marginLeft="5dp"/>
+</LinearLayout>

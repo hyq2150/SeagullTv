@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="colorPrimaryCenter" format="color|reference" />
+    <attr name="colorTextIcon" format="color|reference" />
+    <attr name="colorPrimaryText" format="color|reference" />
+    <attr name="colorSecondText" format="color|reference" />
+    <attr name="colorBackground" format="color|reference" />
+    <attr name="colorDivider" format="color|reference" />
+    <attr name="colorBackgroundAccent" format="color|reference" />
+    <attr name="colorHint" format="color|reference" />
+    <attr name="menuBackground" format="reference" />
+
+    <declare-styleable name="HeartBubbleView">
+        <attr name="heartColor" format="color"/>
+    </declare-styleable>
+
+    <declare-styleable name="CircleProgressBar">
+        <attr name="progress_value" format="integer" />
+        <attr name="progress_color" format="color" />
+        <attr name="background_color" format="color" />
+        <attr name="progress_width" format="dimension" />
+        <attr name="background_width" format="dimension" />
+    </declare-styleable>
+
+    <declare-styleable name="CarrouselLayout">
+        <attr name="autoRotation" format="boolean"/>
+        <attr name="rotationTime" format="integer"/>
+        <attr name="r" format="dimension"/>
+        <attr name="rotateDirection">
+            <enum name="clockwise" value="0"/>
+            <enum name="anticlockwise" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
