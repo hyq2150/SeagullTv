@@ -90,9 +90,4 @@ android:fitsSystemWindows="true">
     android:src="@mipmap/ic_fullscreen"
     android:layout_margin="@dimen/fab_margin"
     android:clickable="true"/>
-<FrameLayout
-    android:id="@+id/fl_full_screen"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fitsSystemWindows="true"/>
 </android.support.design.widget.CoordinatorLayout>
