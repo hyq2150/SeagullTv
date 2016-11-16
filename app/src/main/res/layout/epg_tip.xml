@@ -13,8 +13,7 @@
 		android:layout_width="wrap_content"
 		android:layout_height="40dp"
 		android:layout_marginLeft="20dp"
-		android:layout_marginRight="45dp"
-		android:background="@color/colorBluePrimary"/>
+		android:layout_marginRight="45dp"/>
 	<ImageView
 		android:id="@+id/iv_run_fold"
 		android:layout_width="40dp"

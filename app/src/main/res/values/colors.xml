@@ -8,6 +8,8 @@
     <color name="fab_menu_colorRipple">#B3E5FC</color>
     <color name="transparent">#00000000</color>
     <color name="yellow">#ffff00</color>
+    <color name="alpha_blue">#66B3E5FC</color>
+    <color name="light_grey">#ebebeb</color>
 
     <array name="colors">
         <item>@color/colorBluePrimary</item>

@@ -54,10 +54,10 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:layout_gravity="center"
-            app:background_color="@color/white"
+            app:background_color="@color/alpha_blue"
             app:background_width="8dp"
             app:progress_color="@color/colorBluePrimary"
-            app:progress_width="6dp" />
+            app:progress_width="8dp" />
     </FrameLayout>
 
 </FrameLayout>

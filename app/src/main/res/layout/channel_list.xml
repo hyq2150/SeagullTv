@@ -6,7 +6,7 @@
 	android:orientation="horizontal"
 	android:padding="5dp"
 	android:gravity="center"
-	android:background="#66B3E5FC"
+	android:background="@color/alpha_blue"
 	xmlns:android="http://schemas.android.com/apk/res/android">
 	<android.support.v7.widget.RecyclerView
 		android:id="@+id/rv_categories"
