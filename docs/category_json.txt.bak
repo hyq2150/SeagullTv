@@ -46,7 +46,7 @@
     },
     {
         "title":"宠物",
-        "img":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/ic_pet.png",
+        "img":"https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/ic_配et.png",
         "url":"https://newapi.meipai.com/channels/feed_timeline.json?id=6&type=2&count=%s&page=%s"
     },
     {
