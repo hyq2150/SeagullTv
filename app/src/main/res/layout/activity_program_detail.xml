@@ -38,7 +38,7 @@ android:fitsSystemWindows="true">
             app:layout_collapseMode="parallax"
             android:scaleType="centerCrop"
             android:src="@mipmap/program_maintenance"
-            android:visibility="gone"/>
+            android:transitionName="@string/transition_album_img"/>
         <android.support.v7.widget.Toolbar
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
@@ -72,13 +72,13 @@ android:fitsSystemWindows="true">
             android:marqueeRepeatLimit="marquee_forever"
             android:textColor="?attr/colorPrimary"
             android:textColorLink="?attr/colorPrimaryDark"/>
+
         <android.support.v7.widget.RecyclerView
             android:id="@+id/rv_channels"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scrollbars="vertical"/>
     </LinearLayout>
-
 
 <android.support.design.widget.FloatingActionButton
     android:id="@+id/fab_fullscreen"
