@@ -49,11 +49,11 @@
             android:padding="10dp"
             android:gravity="center_vertical">
             <ImageView
-                android:layout_width="25dp"
-                android:layout_height="25dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
                 android:layout_marginLeft="25dp"
                 android:scaleType="centerCrop"
-                android:src="@android:drawable/ic_menu_upload"/>
+                android:src="@mipmap/ic_update"/>
             <TextView
                 android:id="@+id/tv_auto_update"
                 android:layout_width="match_parent"
@@ -71,11 +71,11 @@
             android:padding="10dp"
             android:gravity="center_vertical">
             <ImageView
-                android:layout_width="25dp"
-                android:layout_height="25dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
                 android:layout_marginLeft="25dp"
                 android:scaleType="centerCrop"
-                android:src="@android:drawable/ic_menu_delete"/>
+                android:src="@mipmap/ic_clear"/>
             <TextView
                 android:id="@+id/tv_clear"
                 android:layout_width="match_parent"
@@ -93,11 +93,11 @@
             android:padding="10dp"
             android:gravity="center_vertical">
             <ImageView
-                android:layout_width="25dp"
-                android:layout_height="25dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
                 android:layout_marginLeft="25dp"
                 android:scaleType="centerCrop"
-                android:src="@android:drawable/ic_menu_set_as"/>
+                android:src="@mipmap/ic_settings"/>
             <TextView
                 android:id="@+id/tv_set"
                 android:layout_width="match_parent"
@@ -115,11 +115,11 @@
             android:padding="10dp"
             android:gravity="center_vertical">
             <ImageView
-                android:layout_width="25dp"
-                android:layout_height="25dp"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
                 android:layout_marginLeft="25dp"
                 android:scaleType="centerCrop"
-                android:src="@android:drawable/ic_dialog_info"/>
+                android:src="@mipmap/ic_copyright"/>
             <TextView
                 android:id="@+id/tv_copyright"
                 android:layout_width="match_parent"
