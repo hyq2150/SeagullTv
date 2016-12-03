@@ -8,6 +8,7 @@
 ![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/st_4.png)
 ![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/st_5.png)
 ![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/st_6.png)
+![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/st_7.png)
 
 
 # 关注开发者：
