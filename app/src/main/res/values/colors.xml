@@ -8,8 +8,15 @@
     <color name="fab_menu_colorRipple">#B3E5FC</color>
     <color name="transparent">#00000000</color>
     <color name="yellow">#ffff00</color>
+    <color name="blue">#03A9F4</color>
     <color name="alpha_blue">#66B3E5FC</color>
+    <color name="alpha_blue2">#6603A9F4</color>
     <color name="light_grey">#ebebeb</color>
+    <color name="green_primary">#00E16A</color>
+    <color name="green_dark_50">#7d14a458</color>
+    <color name="status_bar_color">#e0e0e0</color>
+    <color name="main_bg">#f2f2f2</color>
+    <color name="ab_text_color">#555555</color>
 
     <array name="colors">
         <item>@color/colorBluePrimary</item>

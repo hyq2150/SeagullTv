@@ -15,6 +15,32 @@
         <item name="windowNoTitle">true</item>
     </style>
 
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="windowActionBarOverlay">true</item>
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryDark">@color/status_bar_color</item>
+        <item name="colorAccent">@android:color/holo_red_dark</item>
+        <item name="colorControlHighlight">@color/green_dark_50</item>
+        <item name="colorControlNormal">@color/ab_text_color</item>
+        <item name="colorControlActivated">@color/green_primary</item>
+        <item name="drawerArrowStyle">@style/DrawerArrowStyle</item>
+        <item name="android:actionMenuTextColor">#999999</item>
+        <item name="actionMenuTextColor">#999999</item>
+        <item name="android:windowBackground">@color/main_bg</item>
+    </style>
+
+    <style name="DrawerArrowStyle" parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+    </style>
+
+    <style name="TitleTextStyle">
+        <item name="android:textSize">18sp</item>
+        <item name="android:color">@color/ab_text_color</item>
+        <item name="android:textColor">@color/ab_text_color</item>
+    </style>
+
     <!--blueTheme-->
     <style name="BlueTheme" parent="AppTheme">
         <item name="colorPrimary">@color/colorBluePrimary</item>
