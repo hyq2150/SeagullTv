@@ -57,4 +57,11 @@ public class Constant {
         public static final int SHARE_MEIPAI                                 = 0x204;
         public static final int PLAY_NEXT_MEIPAI_VIDEO                      = 0x205;
     }
+
+    public static class ScreenScale {
+        public static final int SCALE_FULLSCREEN                             = 0;
+        public static final int SCALE_16_9                                    = 1;
+        public static final int SCALE_4_3                                     = 2;
+        public static final int SCALE_ORIGINAL                                = 3;
+    }
 }

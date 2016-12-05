@@ -14,7 +14,13 @@
 		android:layout_height="match_parent"/>
 	<android.support.v7.widget.RecyclerView
 		android:id="@+id/rv_channels"
-		android:layout_width="match_parent"
+		android:layout_width="0dp"
 		android:layout_height="match_parent"
-		android:layout_marginLeft="5dp"/>
+		android:layout_weight="1"
+		android:layout_marginLeft="5dp"
+		android:layout_marginRight="5dp"/>
+	<com.victor.view.WheelView
+		android:id="@+id/wv_scale"
+		android:layout_width="110dp"
+		android:layout_height="match_parent"/>
 </LinearLayout>
