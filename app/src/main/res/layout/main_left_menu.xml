@@ -97,7 +97,7 @@
                 android:layout_height="35dp"
                 android:layout_marginLeft="25dp"
                 android:scaleType="centerCrop"
-                android:src="@mipmap/ic_settings"/>
+                android:src="@mipmap/ic_shake"/>
             <TextView
                 android:id="@+id/tv_shake"
                 android:layout_width="match_parent"
