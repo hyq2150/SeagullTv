@@ -4,17 +4,30 @@ android {
     compileSdkVersion 24
     buildToolsVersion "24.0.2"
 
+    signingConfigs {
+        release {
+            storeFile file("E:\\androidProjects\\SeagullTv\\docs\\victor_keystore.jks")
+            storePassword "android"
+            keyAlias "victor"
+            keyPassword "android"
+        }
+    }
+
     defaultConfig {
         applicationId "com.victor.seagull"
         minSdkVersion 17
         targetSdkVersion 24
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.0.2"
     }
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+        debug {
+            signingConfig signingConfigs.release
         }
     }
 }
@@ -40,4 +53,5 @@ dependencies {
         transitive = true
     }
     compile files('libs/jsoup-1.9.2.jar')
+    compile 'com.github.Victor2018:AppUpdateLib:v1.2'
 }
