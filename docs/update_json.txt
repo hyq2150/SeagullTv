@@ -1,1 +1,1 @@
-{"app_name":"SeagullTv","version_name":"1.0.3","version_code":3,"update_content":"1,add share module;2,add auto update app module;3,modify play bug","url":"https://github.com/Victor2018/SeagullTv/raw/master/app/SeagullTv.apk"}
+{"app_name":"SeagullTv","version_name":"1.0.5","version_code":5,"update_content":"1,add share module;2,add auto update app module;3,modify play bug","url":"https://github.com/Victor2018/SeagullTv/raw/master/app/SeagullTv.apk"}
