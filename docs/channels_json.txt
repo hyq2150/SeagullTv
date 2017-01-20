@@ -11,6 +11,7 @@
                     {"play_url":"http://112.253.38.62:80/livehls1-cnc.wasu.cn/hd_cctv1/z.m3u8"},
                     {"play_url":"http://60.214.208.202:9222/mweb/cmv/cctv1.m3u8"},
                     {"play_url":"http://110.77.0.182:1935/dvr/1001.stream/playlist.m3u8"},
+		    {"play_url":"http://eshare.live.otvcloud.com/otv/nyz/live/channel01/index.m3u8"},
                     {"play_url":"http://220.194.207.40/livehls1-cnc.wasu.cn/cctv1/z.m3u8"}
                 ],
             "epg":"http://www.tvsou.com/epg/cctv-1?class=yangshi",
