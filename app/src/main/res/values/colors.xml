@@ -9,6 +9,7 @@
     <color name="transparent">#00000000</color>
     <color name="yellow">#ffff00</color>
     <color name="blue">#03A9F4</color>
+    <color name="alpha_yellow">#66ffff00</color>
     <color name="alpha_blue">#66B3E5FC</color>
     <color name="alpha_blue2">#6603A9F4</color>
     <color name="light_grey">#ebebeb</color>

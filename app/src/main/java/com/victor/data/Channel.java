@@ -1,15 +1,1 @@
-package com.victor.data;
-
-import java.io.Serializable;
-
-/**
- * Created by victor on 2015/12/25.
- */
-public class Channel implements Serializable{
-    public int category;
-    public int gravity;
-    public String name;
-    public String icon;
-    public String epg;
-    public String[] playUrls;
-}
+package com.victor.data;import java.io.Serializable;/** * Created by victor on 2015/12/25. */public class Channel implements Serializable{    public int _id;//唯一标示    public int category;    public int gravity;    public String name;    public String icon;    public String epg;    public String[] playUrls;    public long current;    public long duration;}
