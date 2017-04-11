@@ -18,6 +18,7 @@
         android:layout_margin="@dimen/fab_margin"
         android:src="@android:drawable/ic_dialog_email"
         android:clickable="true"
+        android:transitionName="@string/transition_fab_icon"
         app:layout_behavior="com.victor.view.ScrollAwareFABBehavior"/>
 
 </android.support.design.widget.CoordinatorLayout>

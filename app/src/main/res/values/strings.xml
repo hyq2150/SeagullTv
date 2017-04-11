@@ -24,6 +24,7 @@
     <string name="diy_channel_title">自定义频道</string>
     <string name="add_diy_channel">添加频道</string>
     <string name="transition_album_img">transition_album_img</string>
+    <string name="transition_fab_icon">transition_fab_icon</string>
     <string name="title_activity_live">LiveActivity</string>
 
 </resources>

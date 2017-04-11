@@ -12,6 +12,7 @@
 
 # 下载体验
 ![image](https://github.com/Victor2018/SeagullTv/raw/master/SrceenShot/download.png)
+
 [下载戳这里](https://github.com/Victor2018/SeagullTv/raw/master/app/SeagullTv.apk)
 
 # 关注开发者：

@@ -88,5 +88,6 @@ android:fitsSystemWindows="true">
     app:layout_anchorGravity="bottom|right|end"
     android:src="@mipmap/ic_fullscreen"
     android:layout_margin="@dimen/fab_margin"
+    android:transitionName="@string/transition_fab_icon"
     android:clickable="true"/>
 </android.support.design.widget.CoordinatorLayout>
